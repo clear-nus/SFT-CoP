@@ -2,8 +2,6 @@
 [![preprint](https://img.shields.io/static/v1?label=arXiv&message=2211.05361&color=B31B1B)](https://arxiv.org/abs/2211.05361)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Coming soon! We are currently cleaning up our code for release.
-
 This repository contains the code for our paper [Safety-Constrained Policy Transfer with Successor Features](https://arxiv.org/abs/2211.05361) (ICRA-23).
 
 ## Introduction
@@ -24,8 +22,22 @@ This repo contains code that's based on the following code: [RaSF](https://openr
 ## BibTeX
 
 If you find this repository or the ideas presented in our paper useful for your research, please consider citing our paper.
+```sh
+@INPROCEEDINGS{10161256,
+  author={Feng, Zeyu and Zhang, Bowen and Bi, Jianxin and Soh, Harold},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Safety-Constrained Policy Transfer with Successor Features}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={7219-7225},
+  keywords={Automation;Reinforcement learning;Markov processes;Safety;Task analysis;Robots;Optimization},
+  doi={10.1109/ICRA48891.2023.10161256}
+}
+
+```
 
 
 ## Contact us
 
-Feel free to contact <a href="mailto:zeyu@comp.nus.edu.sg">Zeyu Feng</a>, <a href="mailto:bowenzhang@comp.nus.edu.sg">Bowen Zhang</a>, <a href="mailto:jianxin.bi@comp.nus.edu.sg">Jianxin Bi</a> or <a href="mailto:harold@comp.nus.edu.sg">Harold Soh</a> for any questions regarding the code or the paper. Please visit our website for more information: [CLeAR website](https://clear-nus.github.io/).
+Feel free to contact <a href="mailto:zeyu@comp.nus.edu.sg">Zeyu Feng</a>, <a href="mailto:bowenzhang@comp.nus.edu.sg">Bowen Zhang</a>, <a href="mailto:jianxin.bi@comp.nus.edu.sg">Jianxin Bi</a> or <a href="mailto:harold@comp.nus.edu.sg">Harold Soh</a> for any questions regarding the code or the paper. Please visit our website for more information: [CLeAR](https://clear-nus.github.io/blog/sft-cop).
